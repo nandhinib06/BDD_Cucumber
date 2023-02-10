@@ -13,6 +13,7 @@ import io.cucumber.junit.CucumberOptions;
 //@CucumberOptions(features = "feature/loginWithData.feature", glue="stepdefinition")
 //@CucumberOptions(features="feature/Login.feature", glue="stepdefinition")
 //@CucumberOptions(features="feature/opengoogle.feature", glue="stepdefinition")
+//@CucumberOptions(features = "feature/cucmber.feature", glue="Step_Defn")
 public class RunnerClass {
 
 }
